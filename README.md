@@ -1,70 +1,152 @@
-# Hi, I'm Aayush Singh 👋
+# 👋 Hi, I'm **Aayush Singh**
 
-Full Stack Developer with 1+ year of experience building scalable and user-focused web applications. I work across the stack to deliver efficient, maintainable solutions—from responsive frontends to robust backend systems.
-
----
-
-## 🧑‍💻 About Me
-
-I’m a full stack developer with hands-on industry experience in designing and developing modern web applications. Over the past year, I’ve worked on real-world projects involving frontend development, backend APIs, and database management.
-
-I focus on writing clean, maintainable code and building systems that are both performant and scalable.
+<h3 align="center">🚀 Full Stack Developer | Building Scalable & User-Centric Web Applications</h3>
 
 ---
 
-## ⚙️ Technical Skills
+## 🌟 About Me
 
-**Frontend**
-`React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS`
+I’m a **Full Stack Developer with 1+ year of hands-on experience** in designing and building modern, scalable web applications.
 
-**Backend**
-`Node.js` `Express.js` `REST APIs` `Authentication (JWT)`
+I enjoy working across the entire development lifecycle—from crafting **responsive, intuitive frontends** to engineering **secure and high-performance backend systems**.
 
-**Databases**
-`MongoDB` `Mongoose`
+💡 What drives me:
 
-**Tools & DevOps**
-`Git` `GitHub` `Postman` `Docker (Basics)` `CI/CD (Basics)`
+* Writing **clean, maintainable, and efficient code**
+* Solving real-world problems with scalable solutions
+* Continuously learning and adapting to new technologies
 
 ---
 
-## 🚀 Featured Projects & Experience
+## 🧠 Technical Expertise
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+* React.js (Component-based architecture)
+* Modern JavaScript (ES6+)
+* Responsive UI/UX design
+* Tailwind CSS for fast styling
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+* Node.js & Express.js
+* RESTful API Design & Development
+* Authentication & Authorization (JWT)
+* Middleware & Error Handling
+
+---
+
+### 🗄️ Database & Data Handling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+* MongoDB & Mongoose
+* Schema Design & Data Modeling
+* Query Optimization
+
+---
+
+### 🛠️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
+
+* Git & GitHub (Version Control)
+* API Testing with Postman
+* Docker (Basics)
+* CI/CD Fundamentals
+
+---
+
+## 🚀 Projects & Experience
 
 ### 🔹 Full Stack Web Application
 
-Built a scalable web application using React, Node.js, and MongoDB with a focus on performance and usability.
+Developed a scalable and user-friendly web application using **React, Node.js, and MongoDB**.
 
-* Developed responsive UI components and reusable frontend architecture
-* Designed RESTful APIs and implemented secure authentication
-* Integrated database operations with optimized queries
+✨ Key Contributions:
+
+* Built reusable and responsive UI components
+* Designed and implemented RESTful APIs
+* Integrated secure authentication (JWT)
+* Optimized database queries for performance
+
+---
 
 ### 🔹 API Development & Integration
 
-Worked on backend services and API integrations for real-world use cases.
+Worked on backend services powering real-world applications.
 
-* Built and tested REST APIs using Express.js
-* Handled data validation, error handling, and middleware design
-* Improved system reliability and maintainability
+✨ Highlights:
 
-### 🔹 Performance & Code Quality
-
-Contributed to improving application performance and code structure.
-
-* Refactored legacy code for better readability and efficiency
-* Followed best practices for clean code and modular design
+* Designed structured and scalable APIs
+* Implemented validation, middleware, and error handling
+* Ensured high reliability and maintainability
 
 ---
 
-## 📚 What I'm Learning
+### 🔹 Performance Optimization & Code Quality
 
-* Cloud Technologies (AWS / Deployment Strategies)
-* Advanced Backend Architecture & System Design
+Improved system performance and maintainability through:
+
+* Refactoring legacy codebases
+* Applying clean code principles
+* Enhancing modular architecture
 
 ---
 
-## 📫 Connect with Me
+## 📈 Currently Learning
 
-* **LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ayush-singh-0835943a3/)
-* **Email:** [your.email@example.com](mailto:aayush.career.18@gmail.com)
-* **GitHub:** [https://github.com/your-username](https://github.com/aayushbrijeshsingh-create)
+📚 Expanding my expertise in:
+
+* ☁️ Cloud Technologies (AWS & Deployment)
+* 🏗️ System Design & Scalable Architecture
+* ⚡ Advanced Backend Engineering
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayush-singh-0835943a3/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:aayush.career.18@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/aayushbrijeshsingh-create">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## ⚡ Quick Highlights
+
+* 💼 1+ Year Industry Experience
+* 🌐 Full Stack Development (MERN)
+* 🔐 Authentication & API Security
+* 🚀 Performance & Scalability Focus
+
+---
+
+## 💬 Developer Philosophy
+
+> “Build solutions that are not just functional, but scalable, maintainable, and meaningful.”
+
+---
+
 
