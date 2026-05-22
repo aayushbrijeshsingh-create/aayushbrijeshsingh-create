@@ -124,7 +124,7 @@ Improved system performance and maintainability through:
   <a href="https://www.linkedin.com/in/ayush-singh-0835943a3/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:aayush.career.18@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/aayushbrijeshsingh-create">
