@@ -118,21 +118,6 @@ Improved system performance and maintainability through:
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-singh-0835943a3/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/aayushbrijeshsingh-create">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
 
 ## ⚡ Quick Highlights
 
