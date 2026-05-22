@@ -2,6 +2,12 @@
 
 <h3 align="center">🚀 Full-Stack Engineer | Architecting Scalable, Distributed & High-Performance Web Applications</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-singh-0835943a3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ## 🌟 Professional Summary
